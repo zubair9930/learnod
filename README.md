@@ -1,0 +1,2 @@
+# learnod
+Od study 
